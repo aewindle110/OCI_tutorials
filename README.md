@@ -1,5 +1,5 @@
 # OCI_tutorials
-Tutorials on how to access and process PACE OCI data
+Tutorials on how to access and process simulated PACE data
 
 Once you have pulled the repo down locally via git and have Docker installed all code here can be run fully in Docker based on a prebuilt environment by running:
 
